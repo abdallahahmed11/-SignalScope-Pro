@@ -35,5 +35,5 @@ Zooming in when they are linked
 ![image](https://github.com/abdallahahmed11/SignalScope-Pro/blob/main/img.png)
 
 Adding more than one signal
-![image](https://github.com/sbme-tutorials/task1-signal-viewer-dsp_fall23_task1_team_5/assets/115111861/c584f667-80bc-46bf-9231-87c9b7a5ea8b)
+![image](https://github.com/abdallahahmed11/SignalScope-Pro/blob/main/img5.png)
 
