@@ -29,7 +29,7 @@ Changing colors
 ![image](https://github.com/abdallahahmed11/SignalScope-Pro/blob/main/img2.png)
 
 When a signal in graph 1 is hidden
-![image](https://github.com/sbme-tutorials/task1-signal-viewer-dsp_fall23_task1_team_5/assets/115111861/0dba0c58-8283-4533-8911-26febdb9222d)
+![image](https://github.com/abdallahahmed11/SignalScope-Pro/blob/main/img3.png)
 
 Zooming in when they are linked
 ![image](https://github.com/sbme-tutorials/task1-signal-viewer-dsp_fall23_task1_team_5/assets/115111861/ab18e021-1a1f-4541-832d-a4cebcb24d05)
