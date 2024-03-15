@@ -22,7 +22,7 @@ The application is built using the following libraries:
 
 
 ## Preview
-![image](https://github.com/sbme-tutorials/task1-signal-viewer-dsp_fall23_task1_team_5/assets/115111861/6ec2117b-b020-4ff1-82d5-77a9f985835b)
+![image](https://github.com/abdallahahmed11/SignalScope-Pro/blob/main/img1.png)
 
 
 Changing colors
